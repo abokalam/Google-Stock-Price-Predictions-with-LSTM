@@ -23,3 +23,4 @@ Colaboratory, or "Colab" for short, allows you to write and execute Python in yo
 > - NumPy
 > - TensorFlow 1.x
 > - Keras 2.x
+ 
