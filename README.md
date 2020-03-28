@@ -2,7 +2,7 @@
 
 I would just like to add a disclaimer — this project is entirely intended for research purposes! I’m just a student learning about deep learning, and the project is a work in progress, please don’t put any money into an algorithm as naïve as this!
 
-Algorithmic trading has revolutionised the stock market and its surrounding industry. Over 70% of all trades happening in the US right now are being handled by bots[1]. Gone are the days of the packed stock exchange with suited people waving sheets of paper shouting into telephones.
+Algorithmic trading has revolutionised the stock market and its surrounding industry. Over 70% of all trades happening in the US right now are being handled by bots. Gone are the days of the packed stock exchange with suited people waving sheets of paper shouting into telephones.
 This got me thinking of how I could develop my own algorithm for trading stocks, or at least try to accurately predict them.
 
 ## Setup
